@@ -1,0 +1,7 @@
+#Wed Nov 02 15:27:39 IST 2016
+base.0=C\:\\Users\\ajay\\Desktop\\marshmallow-permissions-example-master\\Launchers\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_32971a63a06e00eca7b985d20c2110c3631f25ec
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\ajay\\Desktop\\marshmallow-permissions-example-master\\Launchers\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_983a7bf23910e4d7300163a01066d487388d931c\\classes.dex
+base.1=C\:\\Users\\ajay\\Desktop\\marshmallow-permissions-example-master\\Launchers\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_983a7bf23910e4d7300163a01066d487388d931c
+file.0=C\:\\Users\\ajay\\Desktop\\marshmallow-permissions-example-master\\Launchers\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_32971a63a06e00eca7b985d20c2110c3631f25ec\\classes.dex
